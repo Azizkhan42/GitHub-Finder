@@ -111,6 +111,7 @@ ul li a{
     border: 1px solid rgba(0, 0, 0, 0.2);
     margin-top: 10px;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     gap: 20px;
